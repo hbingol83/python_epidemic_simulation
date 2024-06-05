@@ -14,6 +14,7 @@ Tuples corresponding to RGB colors
     INFECTED = (210, 100, 140)
     RECOVERED = (0, 160, 0)
     UNEXPOSED = (0, 120, 240)
+    RED = (50, 50, 300)
 
 
 class Disease:
